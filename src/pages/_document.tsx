@@ -5,8 +5,9 @@ export default function Document() {
     <Html>
       <Head>
       <link rel="preconnect" href="https://fonts.googleapis.com" />
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+      <link rel="preconnect" href="https://stijndv.com" />
+      <link rel="stylesheet" href="https://stijndv.com/fonts/Eudoxus-Sans.css" />
+      
       </Head>
       <body>
         <Main />
